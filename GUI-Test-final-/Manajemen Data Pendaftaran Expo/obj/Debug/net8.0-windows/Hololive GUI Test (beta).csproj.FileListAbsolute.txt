@@ -1,0 +1,28 @@
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\bin\Debug\net8.0-windows\Hololive GUI Test (beta).exe
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\bin\Debug\net8.0-windows\Hololive GUI Test (beta).deps.json
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\bin\Debug\net8.0-windows\Hololive GUI Test (beta).runtimeconfig.json
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\bin\Debug\net8.0-windows\Hololive GUI Test (beta).dll
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\bin\Debug\net8.0-windows\Hololive GUI Test (beta).pdb
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\Manajemen_Data_Pendaftaran_Expo.Form1.resources
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\Manajemen_Data_Pendaftaran_Expo.Participant.resources
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\Manajemen_Data_Pendaftaran_Expo.Payment_Classes.resources
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\Manajemen_Data_Pendaftaran_Expo.Properties.Resources.resources
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\Manajemen_Data_Pendaftaran_Expo.FormPendaftaran.resources
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\Manajemen_Data_Pendaftaran_Expo.Staff_Login.resources
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\Manajemen_Data_Pendaftaran_Expo.Staff_Menu.resources
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\Hololive GUI Test (beta).csproj.GenerateResource.cache
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\Hololive GUI Test (beta).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\Hololive GUI Test (beta).AssemblyInfoInputs.cache
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\Hololive GUI Test (beta).AssemblyInfo.cs
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\Hololive GUI Test (beta).csproj.CoreCompileInputs.cache
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\Hololive GUI Test (beta).sourcelink.json
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\Hololive GUI Test (beta).dll
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\refint\Hololive GUI Test (beta).dll
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\Hololive GUI Test (beta).pdb
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\Hololive GUI Test (beta).genruntimeconfig.cache
+C:\Users\Dhani\Source\Repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\ref\Hololive GUI Test (beta).dll
+C:\Users\Dhani\source\repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dhani\source\repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dhani\source\repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\Dhani\source\repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\Hololive GUI Test (beta).csproj.AssemblyReference.cache
+C:\Users\Dhani\source\repos\GUI-Test-beta-\Manajemen Data Pendaftaran Expo\obj\Debug\net8.0-windows\Hololive.F4A2500E.Up2Date
